@@ -23,11 +23,12 @@
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from "vue";
+// No need to import NodeJS, just use the correct type for the interval
 import { useRouter, useRoute } from "vue-router";
 
 const showNav = ref(false);
 const countdown = ref(15 * 60); // 15 minutos en segundos
-const countdownInterval = ref<NodeJS.Timeout | null>(null);
+const countdownInterval = ref<ReturnType<typeof setInterval> | null>(null);
 const router = useRouter();
 const route = useRoute();
 
