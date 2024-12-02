@@ -36,9 +36,9 @@ function __VLS_template() {
     __VLS_elementAsFunction(__VLS_intrinsicElements.h1, __VLS_intrinsicElements.h1)({});
     __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("pokemones") }, src: ("../assets/imgs/pokemones.png"), alt: ("1"), });
     __VLS_elementAsFunction(__VLS_intrinsicElements.div, __VLS_intrinsicElements.div)({ ...{ class: ("img-container") }, });
-    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"), alt: ("1"), });
-    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"), alt: ("2"), });
-    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"), alt: ("3"), });
+    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("../assets//imgs/electric.jpg"), alt: ("1"), });
+    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("../assets/imgs/planta.jpg"), alt: ("2"), });
+    __VLS_elementAsFunction(__VLS_intrinsicElements.img)({ ...{ class: ("imgdeuna") }, src: ("../assets/imgs/aigua.jpg"), alt: ("3"), });
     __VLS_elementAsFunction(__VLS_intrinsicElements.p, __VLS_intrinsicElements.p)({});
     __VLS_elementAsFunction(__VLS_intrinsicElements.button, __VLS_intrinsicElements.button)({ ...{ onClick: (__VLS_ctx.navigateToScreen4) }, ...{ class: ("navigate-btn") }, });
     __VLS_elementAsFunction(__VLS_intrinsicElements.div, __VLS_intrinsicElements.div)({ ...{ class: ("fixed-letter") }, });

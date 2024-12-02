@@ -6,17 +6,17 @@
       <div class="img-container">
         <img
           class="imgdeuna"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"
+          src="../assets//imgs/electric.jpg"
           alt="1"
         />
         <img
           class="imgdeuna"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"
+          src="../assets/imgs/planta.jpg"
           alt="2"
         />
         <img
           class="imgdeuna"
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcHb7DIckivDUj9SFFt2g0YyYywpqRiI5Eg&s"
+          src="../assets/imgs/aigua.jpg"
           alt="3"
         />
       </div>

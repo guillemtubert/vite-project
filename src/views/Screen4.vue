@@ -6,7 +6,7 @@
         Heu vist aquestes lletres per algun lloc? Potser en les etapes
         anteriors...
       </p>
-      <p>al meu quart calaix potser hi ha algo...</p>
+      <p>A la meva motxilla potser hi ha algo...</p>
       <img src="../assets/imgs/selda.png" alt="columns" />
       <div class="fixed-letter">S</div>
     </div>
