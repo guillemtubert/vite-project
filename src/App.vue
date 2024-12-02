@@ -1,23 +1,6 @@
 <template>
   <div id="app">
-    <nav v-if="showNav && !isIntroScreen">
-  <ul>
-    <li :class="{ 'active-tab': isActive('/screen1') }">
-      <router-link to="/screen1">1: Disbauxa</router-link>
-    </li>
-    <li :class="{ 'active-tab': isActive('/screen2') }">
-      <router-link to="/screen2">2: Haiku</router-link>
-    </li>
-    <li :class="{ 'active-tab': isActive('/screen3') }">
-      <router-link to="/screen3">3: Onda trueno</router-link>
-    </li>
-    <li :class="{ 'active-tab': isActive('/screen4') }">
-      <router-link to="/screen4">4: Final boss</router-link>
-    </li>
-  </ul>
-  <div v-if="countdown > 0" class="countdown-timer blink">Cuenta atrás: {{ formattedCountdown }}</div>
-</nav>
-    <router-view></router-view>
+    <p>testing 123!!!!</p>
   </div>
 </template>
 
